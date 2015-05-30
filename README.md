@@ -25,4 +25,9 @@
     set shiftwidth=4
     set expandtab
     ```
-6. done. happy coding~ !!!
+6. Change user ``.netrwhist``
+    $ vim ~/.netrwhist
+    let g:netrw_dirhist_1='/Users/YOUR_USER/.ssh'
+    let g:netrw_dirhist_2='/Users/YOUR_USER/.vim/colors'
+
+7. done. happy coding~ !!!
