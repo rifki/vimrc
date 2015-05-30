@@ -8,7 +8,7 @@
 3. Rename ex.netrwhist to .netrwhist
 
 4. Edit ``.vimrc``
-    $ vim ~/.vimrc
+    ``$ vim ~/.vimrc``
 
 5. paste code below:
 
@@ -25,9 +25,12 @@
     set shiftwidth=4
     set expandtab
     ```
-6. Change user ``.netrwhist``
-    $ vim ~/.netrwhist
+6. Change user ``.netrwhist`` ``$ vim ~/.netrwhist``
+    
+    ```php
     let g:netrw_dirhist_1='/Users/YOUR_USER/.ssh'
     let g:netrw_dirhist_2='/Users/YOUR_USER/.vim/colors'
+    ```
 
 7. done. happy coding~ !!!
+
