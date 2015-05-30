@@ -1,12 +1,12 @@
 # Personal vimrc
 
 ## Step
-    1. installation & following step by step => https://github.com/scrooloose/nerdtree
+1. installation & following step by step => https://github.com/scrooloose/nerdtree
     
-    2. Move .vimrc ``into ~/.vimrc``
+2. Move .vimrc ``into ~/.vimrc``
     $ vim ~/.vimrc
 
-    3. paste code below:
+3. paste code below:
 
     ```php
     execute pathogen#infect()
@@ -21,4 +21,4 @@
     set shiftwidth=4
     set expandtab
     ```
-    3. done. happy coding~ !!!
+4. done. happy coding~ !!!
