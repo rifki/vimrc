@@ -5,7 +5,7 @@
     
 2. Rename and move ``ex.vimrc`` to ``~/.vimrc``
 
-3. Rename ex.netrwhist to .netrwhist
+3. Rename ``ex.netrwhist`` to ``.netrwhist``
 
 4. Edit ``.vimrc``
     ``$ vim ~/.vimrc``
