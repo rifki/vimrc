@@ -3,10 +3,14 @@
 ## Step
 1. installation & following step by step => https://github.com/scrooloose/nerdtree
     
-2. Move .vimrc ``into ~/.vimrc``
+2. Rename and move ``ex.vimrc`` to ``~/.vimrc``
+
+3. Rename ex.netrwhist to .netrwhist
+
+4. Edit ``.vimrc``
     $ vim ~/.vimrc
 
-3. paste code below:
+5. paste code below:
 
     ```php
     execute pathogen#infect()
@@ -21,4 +25,4 @@
     set shiftwidth=4
     set expandtab
     ```
-4. done. happy coding~ !!!
+6. done. happy coding~ !!!
